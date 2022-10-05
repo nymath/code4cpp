@@ -2,10 +2,9 @@
 
 #include <iostream> 
 #include <cmath> // or math.h
-
+using namespace std;
 int main()
 {
-    using namespace std;
 
     double area;
     cout << "The Area of your house is: ";
