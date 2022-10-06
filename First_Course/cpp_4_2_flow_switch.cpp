@@ -20,7 +20,7 @@ cin >> score;
 cout << "your score is: " << score << endl;
 switch (score)
 {
-case 9 && 10:
+case 10:
     cout << "经典" << endl;
     break; // 退出当前分支
 case 8:
