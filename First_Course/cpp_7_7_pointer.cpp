@@ -35,7 +35,7 @@ int main()
     int len = sizeof(arr)/sizeof(arr[0]);
     int * po = arr;
     // 2. 创建函数实现排序
-    bubbleSort(po,len);
+    bubbleSort(arr,len);
     printArray(arr,len);
     // 3. 展示排序后的数组
 }

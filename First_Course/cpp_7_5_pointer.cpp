@@ -11,7 +11,7 @@ int main()
     int * p;
     p = arr;
     cout << *p << endl;
-    cout << p << endl;
+    cout << *(p+1) << endl;
     cout << p[0] << endl;
     cout << p[1] << endl;
     // cout << arr << endl;
